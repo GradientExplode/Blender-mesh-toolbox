@@ -125,6 +125,11 @@ Generate realistic 3D meshes of human white matter microstructures (axons, neuro
 - **Export Errors**:
   - Verify `Triangulated Mesh` is enabled in the PLY export settings.
   - Ensure no non-manifold geometry exists (use `Mesh > Clean Up` tools).
+ 
+---
+
+## 6. License
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ---
 
