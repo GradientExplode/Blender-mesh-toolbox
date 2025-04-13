@@ -13,7 +13,7 @@ Generate realistic 3D meshes of human white matter microstructures (axons, neuro
 - **Procedural Modeling**: Uses Blender's Geometry Nodes for dynamic, non-destructive adjustments.
 - **Adjustable Parameters**:
   - Axon radius, angular dispersion, branch generation, tortuosity, density, and cell morphology.
-- **Export Compatibility**: Save models as `.ply` files for use in [MCMR simulator](https://github.com/your-repo-link).
+- **Export Compatibility**: Save models as `.ply` files for use in [MCMR simulator]([https://github.com/your-repo-link](https://open.win.ox.ac.uk/pages/ndcn0236/mcmrsimulator.jl/stable/)).
 
 ## 2. Installation
 
